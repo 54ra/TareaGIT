@@ -1,0 +1,7 @@
+- Estructura HTML general
+
+- Estilos CSS principales
+
+- Qué hace el código JavaScript (eventos, funciones, etc.)
+
+- Flujo de interacción (ej: clic en “Pedir” ➜ JS actualiza el DOM)

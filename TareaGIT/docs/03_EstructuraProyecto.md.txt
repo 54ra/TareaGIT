@@ -1,0 +1,5 @@
+- Describe cada archivo y carpeta
+
+- Incluye un diagrama tipo árbol
+
+- Explica el flujo básico del sistema

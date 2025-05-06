@@ -1,0 +1,9 @@
+Ideas como:
+
+- Guardar datos en localStorage o servidor
+
+- Validaciones mejoradas
+
+- Panel para administrar préstamos
+
+- Mejora de mensajes de error o incidencias

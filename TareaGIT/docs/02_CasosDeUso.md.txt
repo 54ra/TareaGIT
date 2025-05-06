@@ -1,0 +1,9 @@
+Explica estos casos de uso:
+
+- Consultar catálogo
+
+- Pedir préstamo
+
+- Devolver libro
+
+- Incidencias u observaciones

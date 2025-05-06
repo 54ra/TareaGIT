@@ -1,0 +1,5 @@
+- Cómo usar la web
+
+- Cómo pedir y devolver libros
+
+- A quién contactar en caso de errores 
